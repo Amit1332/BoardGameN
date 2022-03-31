@@ -13,18 +13,24 @@
         font-size: 40px;
         flex-wrap: wrap;
         padding-left: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .circle{
         height: 40px;
         width: 40px;
         font-size: 20px;
-        margin: 5px 5px;
+        
         
     }
 }
-@media(max-width:800px){
+@media(max-width:900px){
     .btm{
         font-size: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 
