@@ -11,7 +11,7 @@ function timeShow(time){
             document.querySelector("#timer").textContent=time
            }
            else{
-       document.querySelector(".btm").innerHTML=`<h1>Game Over</h1><br><h6 style="margin-top:-100px">Your Score :${score}</h6>`
+       document.querySelector(".btm").innerHTML=`<h1>Game Over</h1><br><h6 >Your Score :${score}</h6>`
 
            }
           
