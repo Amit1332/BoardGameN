@@ -21,12 +21,13 @@
         height: 40px;
         width: 40px;
         font-size: 20px;
-        margin: 5px 6px;
+        margin: 5px 5px;
 
         
         
     }
 }
+
 @media(max-width:900px){
     .btm{
         font-size: 40px;
